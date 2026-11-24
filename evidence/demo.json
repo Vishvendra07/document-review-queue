@@ -1,0 +1,21 @@
+{
+  "parsed": {
+    "fields": {
+      "reference": "S-521",
+      "total_cents": 12305,
+      "currency": null
+    },
+    "flagged": [
+      "total_cents",
+      "currency"
+    ],
+    "recommended": "review"
+  },
+  "recorded": {
+    "document_id": 1,
+    "decision": "rejected",
+    "version": 2
+  },
+  "stale_edit_rejected": true,
+  "audit_entries": 1
+}
